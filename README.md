@@ -1,8 +1,19 @@
 # Reliable Operations Platform
 
+[![tests](https://github.com/jjmarshall32-maker/reliable-operations-platform/actions/workflows/tests.yml/badge.svg)](https://github.com/jjmarshall32-maker/reliable-operations-platform/actions/workflows/tests.yml)
+
 A clean-room engineering portfolio project that demonstrates how I turn a fragile, file-driven reporting workflow into an observable, restart-safe data operations platform.
 
 > This repository is a from-scratch reconstruction of **general engineering patterns**. It contains no employer source code, production data, internal names, customer or supplier identifiers, screenshots, credentials, proprietary business rules, or copied internal documentation.
+
+## Data integration and operations skills demonstrated
+
+- Python-based ETL/orchestration and automation
+- relational data modeling and SQL-oriented integrity checks
+- ingestion validation, freshness, coverage, and data-quality controls
+- idempotent/retry-safe processing and interrupted-run recovery
+- root-cause-friendly operational state and structured health signals
+- regression tests for pipeline reliability and replay behavior
 
 ## What this demonstrates
 
